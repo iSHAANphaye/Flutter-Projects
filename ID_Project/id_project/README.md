@@ -1,16 +1,3 @@
-# id_project
+# Just a UI for a flutter app ID panel of a user.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1678770021](https://user-images.githubusercontent.com/75660041/224898374-77d31b1e-bc56-4cd6-871a-c7980509fb84.png)
